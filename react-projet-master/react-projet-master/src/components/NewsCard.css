@@ -1,0 +1,37 @@
+
+
+.news-data {
+    padding-right: 200px;
+    font-size: 125%;
+    width : 500px ! important;
+}
+
+.news-data i {
+    margin-right: 5px;
+    color: #ffab40;
+    vertical-align: middle;
+}
+
+.news-data p {
+    margin-bottom: 15px !important;
+}
+
+.news-img-container {
+    max-width: 300px !important;
+    overflow: hidden;
+}
+
+.news-img-container .card-title {
+    text-shadow: 0px 2px 3px black;
+}
+
+.news-img {
+    max-height: 300px;
+    max-width: initial !important;
+}
+
+.card horizontal
+{
+    margin-left : 500px ! important;
+}
+
